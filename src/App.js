@@ -1,5 +1,5 @@
 import './App.css';
-import TaskMangement from './feature/Assignment 1/TaskManagement';
+import TaskMangement from './feature/Assignment 1 - Task Board/TaskManagement';
 
 function App() {
   return (
