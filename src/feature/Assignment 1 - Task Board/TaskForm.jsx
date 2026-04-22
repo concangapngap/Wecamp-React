@@ -27,7 +27,6 @@ function TodoForm({ onAddTask }) {
     return (
         <div>
             <form onSubmit={handleSubmit}>
-                <h1>Task Management Ngoc Giau</h1>
                 <p>
                     <label>Title</label> <span>   </span>
                     <input id="title" type="text" onChange={handleChangeTitle}></input>

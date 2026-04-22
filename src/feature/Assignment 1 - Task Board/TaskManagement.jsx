@@ -32,6 +32,7 @@ function TaskMangement() {
 
     return (
         <div>
+            <h1>Task Board Ngoc Giau</h1>
             <TodoForm  onAddTask={handleAddTask} />
             <label>Filter</label><span>   </span>
             <select value={status} onChange={handleChangeStatus}>
