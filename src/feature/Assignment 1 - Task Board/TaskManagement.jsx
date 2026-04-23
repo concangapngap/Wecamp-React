@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, PropTypes, useEffect } from "react";
+import { useState, useEffect } from "react";
 import TodoForm from "./TaskForm";
 
 function TaskMangement() {

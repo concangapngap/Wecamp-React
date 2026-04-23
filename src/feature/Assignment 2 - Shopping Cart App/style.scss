@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.left, .right {
+  flex: 1;
+  padding: 20px;
+}
+
+.left {
+  background: lightblue;
+}
+
+.right {
+  background: lightcoral;
+}
